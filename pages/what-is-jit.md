@@ -128,3 +128,41 @@ transition: view-transition
 </v-clicks>
 
 </div>
+
+---
+transition: view-transition
+---
+# 什么是 JIT
+
+<v-clicks>
+
+<h1>所以能不能结合两者的优点呢？</h1>
+
+<h1>答案是可以的！</h1>
+
+<h1>Just In Time Compilation</h1>
+
+</v-clicks>
+
+---
+transition: view-transition
+---
+# 什么是 JIT
+
+JIT 的核心特征
+
+<v-clicks>
+
+1. Language runtime 根据代码执行情况，将热点代码编译为机器码
+2. 编译后的机器码直接在 CPU 上运行
+3. JIT 后的代码存在退化机制
+
+</v-clicks>
+
+---
+transition: view-transition
+---
+
+# 什么是 JIT
+
+那么我们怎么样去实现一个最简单的将动态语言编译为机器码的 JIT 呢？
