@@ -22,7 +22,7 @@ image: https://user-images.githubusercontent.com/7054676/227723424-eee4bcbc-564c
 
 # 自我介绍一下
 
-可能大家已经熟悉我了，不过还是做次自我介绍
+忠诚的摇曳露营主义者，久经考验的奥特战士
 
 <v-clicks>
 

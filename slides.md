@@ -1,11 +1,14 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+themeConfig:
+  primary: '#5d8392'
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
 # apply any windi css classes to the current slide
 class: 'text-center'
+colorSchema: 'dark'
 # https://sli.dev/custom/highlighters.html
 highlighter: monaco
 # show line numbers in code blocks
@@ -39,7 +42,7 @@ src: ./pages/what-is-jit.md
 ---
 
 ---
-src: ./pages/observability-self.md
+src: ./pages/a-basic-jit.md
 ---
 
 ---
