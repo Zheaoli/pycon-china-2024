@@ -46,7 +46,7 @@ src: ./pages/a-basic-jit.md
 ---
 
 ---
-src: ./pages/the-future.md
+src: ./pages/jit-in-python.md
 ---
 
 ---
