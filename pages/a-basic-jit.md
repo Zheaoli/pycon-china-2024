@@ -68,7 +68,7 @@ def add(a, b):
 
 <div>
 
-```asm
+```text
 push rbp    
 mov rbp, rsp
 mov eax, rdi
@@ -97,7 +97,7 @@ transition: view-transition
 
 <div>
 
-```asm
+```text
 push rbp          ; 55
 mov rbp, rsp      ; 48 89 e5
 mov rax, rdi      ; 48 89 f8
